@@ -5,6 +5,9 @@ fun oneMoreFunction2(){
 fun oneMoreFun(){
     println("Еще функция")
 }
+fun Bulat(){
+    println("Bulat")
+}
 
 fun main() {
     println("Hi!")
@@ -12,4 +15,6 @@ fun main() {
     println("Просто для еще одного коммита")
     oneMoreFun()
     oneMoreFunction2()
+    Bulat()
+
 }
